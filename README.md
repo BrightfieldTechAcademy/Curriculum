@@ -1,9 +1,12 @@
 # Curiculum for Various Programs at Brightfield Tech Academy
+
+
+## Explorers Program for High School Leavers
 * Estimated months: 5
 * Contact hours: 4 hours a day(Monday - Friday)
 * Number of students per track: 10(based on center size and number of laptops) 
 
-## Explorers Program for High School Leavers
+
 ### Week one 
 * Computer Programming: Beyond the basic use of computers
 ### Week Two 
