@@ -8,9 +8,9 @@
 
 
 ### Week one 
-* Computer Programming: Beyond the basic use of computers
+* [Computer Programming: Beyond the basic use of computers](https://docs.google.com/document/d/1BSBRvKlDWHIo71CuUXplEwqchrQrdqj7kd4dnqXP5W4/edit?usp=sharing)
 ### Week Two 
-* Introduction to Web Design with HTML, CSS, JavaScript
+* [Introduction to Web Design with HTML, CSS, JavaScript](https://www.w3schools.com/whatis/default.asp)
 ### Week Three
 * Page Layout with HTML
 ### Week Three
