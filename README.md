@@ -5,20 +5,12 @@
 * Estimated months: 5
 * Contact hours: 4 hours a day(Monday - Friday)
 * Number of students per track: 10(based on center size and number of laptops) 
-* Training Cost(Monthly Estimate): 
-  - Internet bundles at center: 800 cedis(MTN) 200Cedis(Voda) 
-  - Electricity: 100 cedis 
-  - Facilitator allowance: 1000 cedis 
-  - Laptop damage fixes: 800 cedis
-  - Monthly Fee per head (400 Cedis): 300 for training and the academy makes 100 cedis to cover for future expenses in case there should be.
-  	- Per the economic background of area we operate from, we only charge them 150 cedis
-	- **NB:** Donations from friends keep the programming running and we're grateful.
 * Industrial Experience(Haven't been executed yet):
   - Monthly Tech Talk with Tech Experts
   - Host Mid-track Hackathon 
   - Host End-track Hackathon with meetup with Tech Experts
   - Trip to visit tech hubs,institutions and startups in Accra, and Kumasi
-
+  
 * Exit Plans:
   - Admission into STEM related programs at reputable institutions either as a scholar or fee paying student
   - Internship(Remote/Onsite)
