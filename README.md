@@ -12,7 +12,7 @@
   - Laptop damage fixes: 800 cedis
   - Monthly Fee per head (400 Cedis): 300 for training and the academy makes 100 cedis to cover for future expenses in case there should be.
   	- Per the economic background of area we operate from, we only charge them 150 cedis
-	- NB: Donations from friends keep the programming running and we're grateful.
+	- **NB:** Donations from friends keep the programming running and we're grateful.
 * Industrial Experience:
   - Monthly Tech Talk with Tech Experts
   - Host Mid-track Hackathon 
