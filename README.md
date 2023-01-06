@@ -29,39 +29,56 @@
 
 ### Week 1 
 * [Computer Programming: Beyond the basic use of computers](https://docs.google.com/document/d/1BSBRvKlDWHIo71CuUXplEwqchrQrdqj7kd4dnqXP5W4/edit?usp=sharing)
+
 ### Week 2 
 * [Introduction to Web Design with HTML, CSS, JavaScript](https://www.w3schools.com/whatis/default.asp)
+
 ### Week 3
 * Page Layout with HTML
+
 ### Week 4
 * Style Pages with CSS 
+
 ### Week 5
 * Personal Project
+
 ### Week 6 
 * Building Interactive Websites with JavaScript 
+
 ### Week 7 
 * Responsive Web Design with Bootstrap 
+
 ### Week 8
 * Group Project
+
 ### Week 10 & 11
 * Programming with JavaScript 
+
 ### Week 12 
 * Introduction with JAMstack Development
+
 ### Week 13
 * Group Project
+
 ### Week 14
 * Introduction to Fullstack Application Development
 * Fullstack Application Development with Node(Express), MongoDB
+
 ### Week 15 
 * Fullstack Application Development with Node(Express), MongoDB 
+
 ### Week 16
 * Personal Project
+
 ### Week 17
 * Fullstack Application Development with PHP and MySQL 
+
 ### Week 18
 * Group Project
+
 ### Week 19 
 * Final Project
+
 ### Week 20
 * Securing Your First Tech Role 
  - Writing CV 
