@@ -19,7 +19,7 @@
   - Source for tech companies with projects they can work on internally 
   - Startup Builders: Partner with startup programs to build startuppers 
   
-* Exit Plans:
+* Facilitators:
   - [Oliver Mensah](https://olivermensahdev.github.io/)	
   -
   
