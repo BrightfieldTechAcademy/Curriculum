@@ -29,15 +29,15 @@
 
 ### Week 1 
 * [Computer Programming: Beyond the basic use of computers](https://docs.google.com/document/d/1BSBRvKlDWHIo71CuUXplEwqchrQrdqj7kd4dnqXP5W4/edit?usp=sharing)
-
-### Week 2 
 * [Introduction to Web Design with HTML, CSS, JavaScript](https://www.w3schools.com/whatis/default.asp)
 
-### Week 3
+### Week 2 
 * [Page Layout with HTML](https://www.w3schools.com/html/default.asp)
 
-### Week 4
+### Week 3
 * Style Pages with CSS 
+### Week 4
+* Mobile First - Building Responsive Websites
 
 ### Week 5
 * Personal Project
