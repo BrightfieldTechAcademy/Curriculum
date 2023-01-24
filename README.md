@@ -34,7 +34,7 @@
 * [Introduction to Web Design with HTML, CSS, JavaScript](https://www.w3schools.com/whatis/default.asp)
 
 ### Week 3
-* Page Layout with HTML
+* [Page Layout with HTML](https://www.w3schools.com/html/default.asp)
 
 ### Week 4
 * Style Pages with CSS 
