@@ -1,27 +1,21 @@
 # Curiculum for Various Programs at Brightfield Tech Academy
 
 
-## Flagship Program - Explorers Program for High School Leavers 
+## Flagship Program - Explorers Program for High School(SHS/JHS) Leavers 
 * Estimated months: 5
-* Contact hours: 4 hours a day(Monday - Friday)
+* Contact hours: 1.5 hours a day(Monday - Friday)
 * Number of students per track: 10(based on center size and number of laptops) 
-* Industrial Experience(Haven't been executed yet):
+* Industrial Experience:
   - Monthly Tech Talk with Tech Experts
   - Host Mid-track Hackathon 
   - Host End-track Hackathon with meetup with Tech Experts
   - Trip to visit tech hubs,institutions and startups in Accra, and Kumasi
   
 * Exit Plans:
-  - Admission into STEM related programs at reputable institutions either as a scholar or fee paying student
-  - Internship(Remote/Onsite)
-  - Partner with organizations building startup organizations for internship opportunities
-  - In-house Contract Projects 
-  - Source for tech companies with projects they can work on internally 
-  - Startup Builders: Partner with startup programs to build startuppers 
+  - Admission into STEM related programs at reputable institutions either as scholars or fee paying students.
   
 * Facilitators:
   - [Oliver Mensah](https://olivermensahdev.github.io/)	
-  -
   
 * Mentors:
   - [Mike Perry Attara Yeboah](https://www.linkedin.com/in/attara/)
@@ -83,6 +77,37 @@
 * Securing Your First Tech Role 
  - Writing CV 
  - Setting up Porfolio Page
+
+
+
+## Career Program 
+* Estimated months: 8
+* Contact hours: 4 hours a day(Monday - Friday)
+* Number of students per track: 10(based on center size and number of laptops) 
+* Industrial Experience:
+  - Monthly Tech Talk with Tech Experts
+  - Host Mid-track Hackathon 
+  - Host End-track Hackathon with meetup with Tech Experts
+  - Trip to visit tech hubs,institutions and startups in Accra, and Kumasi
+  
+* Exit Plans:
+  - Internship(Remote/Onsite)
+  - Partner with organizations building startup organizations for internship opportunities
+  - In-house Contract Projects 
+  - Source for tech companies with projects they can work on internally 
+  - Startup Builders: Partner with startup programs to build startuppers
+  
+* Facilitators:
+  - [Oliver Mensah](https://olivermensahdev.github.io/)	
+  -
+  
+* Mentors:
+  - [Mike Perry Attara Yeboah](https://www.linkedin.com/in/attara/)
+
+
+### Week 1 - 20
+ * Complete the Explorer Program and choose a focus area(frontend, backend or fullstack)
+
 
 
 
