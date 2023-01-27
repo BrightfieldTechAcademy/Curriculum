@@ -3,7 +3,6 @@
 
 ## Flagship Program - Explorers Program for High School(SHS/JHS) Leavers 
 * Estimated months: 5
-* Contact hours: 1.5 hours a day(Monday - Friday)
 * Number of students per track: 10(based on center size and number of laptops) 
 * Industrial Experience:
   - Monthly Tech Talk with Tech Experts
@@ -27,6 +26,11 @@
 
 ### Week 2 
 * [Page Layout with HTML](https://www.w3schools.com/html/default.asp)
+* HTML Projects to replicate: 
+	- [http://txti.es/](http://txti.es/)
+	- [http://www.toad.com/](http://www.toad.com/) 
+	- [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
+	- [http://txti.es/how](http://txti.es/how)
 
 ### Week 3
 * Style Pages with CSS 
@@ -82,7 +86,6 @@
 
 ## Career Program 
 * Estimated months: 8
-* Contact hours: 4 hours a day(Monday - Friday)
 * Number of students per track: 10(based on center size and number of laptops) 
 * Industrial Experience:
   - Monthly Tech Talk with Tech Experts
