@@ -33,7 +33,7 @@
 	- [http://txti.es/how](http://txti.es/how)
 
 ### Week 3
-* Style Pages with CSS 
+* [Style Pages with CSS](https://www.w3schools.com/css/default.asp) 
 ### Week 4
 * Mobile First - Building Responsive Websites
 
