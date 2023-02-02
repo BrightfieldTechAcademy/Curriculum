@@ -36,6 +36,8 @@
 * [Style Pages with CSS](https://www.w3schools.com/css/default.asp) 
 * Class Project with Facilitator(Live Coding Session)
 	- []()
+* Introduction to Git, GitHub and GitHup Pages
+	- []()
 * Personal HTML with CSS Projects: 
 	- [https://upbeat-hermann-1c2c7e.netlify.app/](https://upbeat-hermann-1c2c7e.netlify.app/)
 	- [https://jolly-kalam-23776e.netlify.app/mytunes/#](https://jolly-kalam-23776e.netlify.app/mytunes/#)
