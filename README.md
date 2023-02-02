@@ -39,6 +39,10 @@
 	- [https://jolly-kalam-23776e.netlify.app/mytunes/#](https://jolly-kalam-23776e.netlify.app/mytunes/#)
 	- [https://loving-pike-f67420.netlify.app/](https://loving-pike-f67420.netlify.app/)
 	- [https://unruffled-archimedes-f5a9f1.netlify.app/](https://unruffled-archimedes-f5a9f1.netlify.app/)
+
+* Class Project with Facilitator(Live Coding Session)
+	-
+	
 ### Week 5 & 6
 * Mobile First - Building Responsive Websites
 * Group Project
