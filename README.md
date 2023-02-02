@@ -26,27 +26,30 @@
 
 ### Week 2 
 * [Page Layout with HTML](https://www.w3schools.com/html/default.asp)
-* HTML Projects to replicate: 
+* Personal HTML Projects to replicate: 
 	- [http://txti.es/](http://txti.es/)
 	- [http://www.toad.com/](http://www.toad.com/) 
 	- [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
 	- [http://txti.es/how](http://txti.es/how)
 
-### Week 3
+### Week 3 and 4
 * [Style Pages with CSS](https://www.w3schools.com/css/default.asp) 
-### Week 4
+* Personal HTML with CSS Projects: 
+	- [https://upbeat-hermann-1c2c7e.netlify.app/](https://upbeat-hermann-1c2c7e.netlify.app/)
+	- [https://jolly-kalam-23776e.netlify.app/mytunes/#](https://jolly-kalam-23776e.netlify.app/mytunes/#)
+	- [https://loving-pike-f67420.netlify.app/](https://loving-pike-f67420.netlify.app/)
+	- [https://unruffled-archimedes-f5a9f1.netlify.app/](https://unruffled-archimedes-f5a9f1.netlify.app/)
+### Week 5 & 6
 * Mobile First - Building Responsive Websites
+* Group Project
 
-### Week 5
-* Personal Project
-
-### Week 6 
+### Week 7
 * Building Interactive Websites with JavaScript 
 
-### Week 7 
+### Week 8
 * Responsive Web Design with Bootstrap 
 
-### Week 8
+### Week 9
 * Group Project
 
 ### Week 10 & 11
