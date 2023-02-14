@@ -46,9 +46,12 @@
 	
 ### Week 5 
 * Advance CSS 
+	- [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 
 ### Week 6 
  * Mobile First - Building Responsive Websites
+ 	- [Responsive Web Design Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+	- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
 
 ### Week 7
 * Building Interactive Websites with JavaScript 
