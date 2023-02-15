@@ -51,10 +51,13 @@
  	- [Responsive Web Design Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 	- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
 * Project 
-     - Responsive Web Page with HTML and CSS
+     - Rebuil the ACME Web Solution Page to be responsive with HTML and CSS
+     
 
 ### Week 6 
 * [Responsive Web Page with HTML and CSS Frameworks](https://www.w3schools.com/css/css_rwd_frameworks.asp)
+* Projects
+	- [https://www.w3schools.com/css/css_rwd_templates.asp](https://www.w3schools.com/css/css_rwd_templates.asp)
 
 ### Week 7
 * Building Interactive Websites with JavaScript 
