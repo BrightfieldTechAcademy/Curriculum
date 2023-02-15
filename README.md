@@ -63,7 +63,7 @@
 * Building Interactive Websites with JavaScript 
 
 ### Week 8
-* Responsive Web Design with Bootstrap 
+* Responsive Web Design with CSS Frameworks(Including JS packages) 
 
 ### Week 9
 * Group Project
