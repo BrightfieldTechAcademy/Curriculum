@@ -51,7 +51,7 @@
  	- [Responsive Web Design Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 	- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
 * Project 
-     - Rebuil the ACME Web Solution Page to be responsive with HTML and CSS
+     - Rebuild the ACME Web Solution Page to be responsive with HTML and CSS
      
 
 ### Week 6 
