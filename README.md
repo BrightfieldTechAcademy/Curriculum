@@ -56,15 +56,17 @@
      
 
 ### Week 6 
-* [Responsive Web Page with HTML and CSS Frameworks](https://www.w3schools.com/css/css_rwd_frameworks.asp)
-* Projects
-	- [https://www.w3schools.com/css/css_rwd_templates.asp](https://www.w3schools.com/css/css_rwd_templates.asp)
+* Responsive Web Design - Standard CSS Only Frameworks
+	- [Introduction](https://www.w3schools.com/css/css_rwd_frameworks.asp)
+	- Building Responsive Websites with[W3.css](https://www.w3schools.com/w3css/default.asp)
+	- [Template W3.css Projects](https://www.w3schools.com/css/css_rwd_templates.asp)
 
 ### Week 7
-* Building Interactive Websites with JavaScript 
+* Responsive Web Design  - CSS(Including jQuery/JS) Frameworks
+	- [Introduction to Bootstrap](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 
 ### Week 8
-* Responsive Web Design with CSS Frameworks(Including JS packages) 
+* Building Interactive Websites with JavaScript 
 
 ### Week 9
 * Group Project
