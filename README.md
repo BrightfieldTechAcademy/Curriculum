@@ -52,6 +52,7 @@
 	- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
 * Project 
      - Rebuild the ACME Web Solution Page to be responsive with HTML and CSS
+     - Rebuild the Parallax Website to be responsive with HTML and CSS
      
 
 ### Week 6 
