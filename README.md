@@ -66,10 +66,10 @@
 	- [Introduction to Bootstrap](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 
 ### Week 8
-* Building Interactive Websites with JavaScript 
+* Group Project 
 
 ### Week 9
-* Group Project
+* Building Interactive Websites with JavaScript
 
 ### Week 10 & 11
 * Programming with JavaScript 
