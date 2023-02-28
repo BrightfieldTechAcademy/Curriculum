@@ -17,7 +17,7 @@
   - [Oliver Mensah](https://olivermensahdev.github.io/)	
   
 * Mentors:
-  - [Mike Perry Attara Yeboah](https://www.linkedin.com/in/attara/)
+  - 
 
 
 ### Week 1 
