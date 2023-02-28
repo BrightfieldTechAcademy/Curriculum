@@ -63,7 +63,8 @@
 
 ### Week 7
 * Responsive Web Design  - CSS(Including jQuery/JS) Frameworks
-	- [Introduction to Bootstrap](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
+	- [Bootstrap Website](https://getbootstrap.com/)
+	- [Introduction to Bootstrap By W3Schools](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 
 ### Week 8
 * Group Project 
