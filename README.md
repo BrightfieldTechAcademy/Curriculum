@@ -133,12 +133,6 @@
 
 ### Week 1 - 20
  * Complete the Explorer Program and choose a focus area(frontend, backend or fullstack)
-
-
-
-
-
-
 	
 
 
