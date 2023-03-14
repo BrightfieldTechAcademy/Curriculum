@@ -71,6 +71,7 @@
 
 ### Week 9
 * Building Interactive Websites with JavaScript
+	- [What we can use JavaScript for](https://www.w3schools.com/js/js_intro.asp)
 
 ### Week 10 & 11
 * Programming with JavaScript 
