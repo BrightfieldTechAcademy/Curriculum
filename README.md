@@ -14,11 +14,7 @@
   - Admission into STEM related programs at reputable institutions either as scholars or fee paying students.
   
 * Facilitators:
-  - [Oliver Mensah](https://olivermensahdev.github.io/)	
-  
-* Mentors:
-  - 
-
+  - [Oliver Mensah](https://olivermensahdev.github.io/)
 
 ### Week 1 
 * [Computer Programming: Beyond the basic use of computers](https://docs.google.com/document/d/1BSBRvKlDWHIo71CuUXplEwqchrQrdqj7kd4dnqXP5W4/edit?usp=sharing)
@@ -72,6 +68,7 @@
 ### Week 9
 * Building Interactive Websites with JavaScript
 	- [What we can use JavaScript for](https://www.w3schools.com/js/js_intro.asp)
+	- [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
 
 ### Week 10 & 11
 * Programming with JavaScript 
@@ -123,10 +120,6 @@
   - In-house Contract Projects 
   - Source for tech companies with projects they can work on internally 
   - Startup Builders: Partner with startup programs to build startuppers
-  
-* Facilitators:
-  - [Oliver Mensah](https://olivermensahdev.github.io/)	
-  -
   
 * Mentors:
   - [Mike Perry Attara Yeboah](https://www.linkedin.com/in/attara/)
