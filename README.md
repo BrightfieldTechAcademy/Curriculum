@@ -68,7 +68,7 @@
 ### Week 9
 * Building Interactive Websites with JavaScript
 	- [Introduction to JavaScript](https://www.w3schools.com/js/default.asp)
-	- What we can use JavaScript for](https://www.w3schools.com/js/js_intro.asp)
+	- [What we can use JavaScript for](https://www.w3schools.com/js/js_intro.asp)
 	- [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
 * Programming with JavaScript 
 	- [JavaScript Fundamentals](https://javascript.info/first-steps)
