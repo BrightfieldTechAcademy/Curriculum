@@ -65,7 +65,7 @@
 ### Week 8
 * Group Project 
 
-### Week 9
+### Week 9 & 10
 * Building Interactive Websites with JavaScript
 	- [Introduction to JavaScript](https://www.w3schools.com/js/default.asp)
 	- [What we can use JavaScript for](https://www.w3schools.com/js/js_intro.asp)
@@ -73,27 +73,21 @@
 * Programming with JavaScript 
 	- [JavaScript Fundamentals](https://javascript.info/first-steps)
 
-### Week 10 & 11
-* Programming with JavaScript 
+### Week 11 & 12
+* Advanced JavaScript
 
-### Week 12 
+### Week 13 
 * Introduction with JAMstack Development
 
-### Week 13
+### Week 14
 * Group Project
 
-### Week 14
+### Week 15
 * Introduction to Fullstack Application Development
 * Fullstack Application Development with Node(Express), MongoDB
 
-### Week 15 
+### Week 16 & 17 
 * Fullstack Application Development with Node(Express), MongoDB 
-
-### Week 16
-* Personal Project
-
-### Week 17
-* Fullstack Application Development with PHP and MySQL 
 
 ### Week 18
 * Group Project
